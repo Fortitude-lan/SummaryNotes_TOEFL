@@ -10,7 +10,7 @@
 7.  fine-grained salt                                          ----细盐
 8.  coarser salt                                               ----粗盐(coarse)
 9.  salt-producing ponds                                       ----盐池
-10.                                                 ----难以获得的
+10. unavailable                                                ----难以获得的
 11. That was when...                                           ----就在那时
 12. merchant                                                   ----商人
 13. landed in                                                  ----登陆,进入
